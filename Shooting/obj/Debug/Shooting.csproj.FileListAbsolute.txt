@@ -1,0 +1,9 @@
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\bin\Debug\Shooting.exe.config
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\bin\Debug\Shooting.exe
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\bin\Debug\Shooting.pdb
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.csprojResolveAssemblyReference.cache
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.Form1.resources
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.Properties.Resources.resources
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.csproj.GenerateResource.Cache
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.exe
+d:\Users\Martin\documents\visual studio 2017\Projects\BashSoft\Shooting\obj\Debug\Shooting.pdb
